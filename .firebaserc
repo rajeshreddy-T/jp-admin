@@ -1,5 +1,6 @@
 {
   "projects": {
-    "default": "ionic-ng-conf-app"
+    "jp": "jpmorgam-proto-type",
+    "default": "jpmorgam-proto-type"
   }
 }
